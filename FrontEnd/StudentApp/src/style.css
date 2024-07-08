@@ -1,0 +1,11 @@
+
+.myForm{
+    margin: auto;
+    width: 400px;
+    border: solid 1px;
+}
+
+.footer{
+    background-color: rgb(194, 198, 172);
+    height: 50px;
+}
